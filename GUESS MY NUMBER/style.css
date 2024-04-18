@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+/*
+
+html{
+    font-size: 62.52%;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+    color: #eee;
+    background-color: #222;
+
+}
+header{
+    position: relative;
+    height: 35vh;
+    border-bottom: 7px solid #eee;
+
+}
+main{
+    height: 65vh;
+    color: #eee;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+*/
+body{
+    font-family: sans-serif;
+    background-color: darkolivegreen;
+}
+header{
+    height: 35vh;
+    border-bottom: 7px solid #eee;
+}
+.Number{
+    border: 7px solid white;
+    width: 10%;
+    height: 78px;
+    margin-top: 20px;
+    margin-left: 550px;
+}
+.between{
+    margin-left: 530px;
+}
+.btnagain{
+    margin-left: 590px;
+}
